@@ -1,3 +1,5 @@
+# Welcome to Covenant's Profile
+
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ediomoeffiong/ediomoeffiong/main/E.jpg">
  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ediomoeffiong/ediomoeffiong/main/E.jpg">
@@ -16,11 +18,14 @@ I'm currently learning Java and Spring Boot Framework.
 
 😄 Fun fact: I love chess.
 
-## About me
-
+<details>
+<summary>Programming Language</summary>
 
 | Rank | Languages |
 |-----:|-----------|
 |     1| Java      |
 |     2| C#        |
 |     3| Python    |
+
+</details>
+
