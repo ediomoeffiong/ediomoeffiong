@@ -2,7 +2,7 @@
 
 I'm Covenant (Ediomo).
 
-I'm currently working on Java and Spring Boot Framework.
+I'm currently learning Java and Spring Boot Framework.
 
 💬 Ask me about anything.
 
