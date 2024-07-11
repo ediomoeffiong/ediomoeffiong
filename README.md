@@ -15,3 +15,12 @@ I'm currently learning Java and Spring Boot Framework.
 📫 How to reach me: ediomoemmaeffiong@gmail.com
 
 😄 Fun fact: I love chess.
+
+## About me
+
+
+| Rank | Languages |
+|-----:|-----------|
+|     1| Java      |
+|     2| C#        |
+|     3| Python    |
