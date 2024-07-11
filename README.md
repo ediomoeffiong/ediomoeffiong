@@ -19,13 +19,12 @@ I'm currently learning Java and Spring Boot Framework.
 😄 Fun fact: I love chess.
 
 <details>
-<summary>Programming Language</summary>
+<summary>Secrets: </summary>
+Nothing to see here 😅
+</details>
 
 | Rank | Languages |
 |-----:|-----------|
 |     1| Java      |
 |     2| C#        |
 |     3| Python    |
-
-</details>
-
