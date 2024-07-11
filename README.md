@@ -23,10 +23,10 @@ I'm currently learning Java and Spring Boot Framework.
 Nothing to see here 😅
 </details>
 
-| Rank | Languages |
-|-----:|-----------|
-|     1| Java      |
-|     2| C#        |
-|     3| Python    |
-|     4| C         |
-|     5| Javascript|
+| Rank | Languages                        |
+|-----:|----------------------------------|
+|     1| Java                             |
+|     2| C#                               |
+|     3| Python                           |
+|     4| C                                |
+|     5| Javascript                       |
