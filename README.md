@@ -32,3 +32,7 @@ Nothing to see here 😅
 |     3| Python                           |
 |     4| C                                |
 |     5| Javascript                       |
+
+---
+
+> I fly solo
