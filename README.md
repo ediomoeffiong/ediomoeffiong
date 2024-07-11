@@ -23,7 +23,7 @@ I'm currently learning Java and Spring Boot Framework.
 Nothing to see here 😅
 </details>
 
-<details open>Nothing</details>
+<!-- <details open>Nothing</details> -->
 
 | Rank | Languages                        |
 |-----:|----------------------------------|
