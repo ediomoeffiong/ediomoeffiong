@@ -1,7 +1,7 @@
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ediomoeffiong/ediomoeffiong/main/E.jpg">
  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ediomoeffiong/ediomoeffiong/main/E.jpg">
- <img alt="YOUR-ALT-TEXT" src="https://raw.githubusercontent.com/ediomoeffiong/ediomoeffiong/main/E.jpg">
+ <img alt="A picture of Ediomo Effiong (Covenant)" src="https://raw.githubusercontent.com/ediomoeffiong/ediomoeffiong/main/E.jpg">
 </picture>
 
 ## Hi there 👋
