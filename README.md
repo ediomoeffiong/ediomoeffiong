@@ -1,5 +1,5 @@
 <picture>
- <source media="(https://raw.githubusercontent.com/ediomoeffiong/ediomoeffiong/main/E.jpg))" srcset="YOUR-DARKMODE-IMAGE">
+ <source media="(https://raw.githubusercontent.com/ediomoeffiong/ediomoeffiong/main/E.jpg)" srcset="YOUR-DARKMODE-IMAGE">
  <source media="(https://raw.githubusercontent.com/ediomoeffiong/ediomoeffiong/main/E.jpg)" srcset="YOUR-LIGHTMODE-IMAGE">
  <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
 </picture>
