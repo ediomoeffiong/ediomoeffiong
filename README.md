@@ -24,7 +24,7 @@ Nothing to see here 😅
 </details>
 
 <!-- <details open>Nothing</details> -->
-
+<!--
 | Rank | Languages                        |
 |-----:|----------------------------------|
 |     1| Java                             |
@@ -32,6 +32,7 @@ Nothing to see here 😅
 |     3| Python                           |
 |     4| C                                |
 |     5| Javascript                       |
+-->
 
 <div align="center" dir="auto">
   <a href="https://www.linkedin.com/in/ediomo-effiong/" rel="nofollow"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"></a>
