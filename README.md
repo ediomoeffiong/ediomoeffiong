@@ -52,6 +52,7 @@ Nothing to see here 😅
 
 > Na, I'd Win
 
+<!--Github Stats-->
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=ediomoeffiong&show_icons=true&theme=dark"
@@ -63,3 +64,20 @@ Nothing to see here 😅
   />
   <img src="https://github-readme-stats.vercel.app/api?username=ediomoeffiong&show_icons=true" />
 </picture>
+
+
+</br>
+</br>
+<!--Top Language Stats-->
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ediomoeffiong&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ediomoeffiong&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ediomoeffiong&show_icons=true"/>
+</picture>
+
