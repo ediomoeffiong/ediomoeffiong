@@ -34,6 +34,21 @@ Nothing to see here 😅
 |     5| Javascript                       |
 -->
 
+<!--Loading-->
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/PeaceOloruntoba/PeaceOloruntoba/blob/main/assets/light.gif" data-target="animated-image.originalLink"><img src="https://github.com/PeaceOloruntoba/PeaceOloruntoba/raw/main/assets/light.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+
+<!--Stars, Followers, and Profile Views-->
+<p align="center" dir="auto"> 
+  <a href="https://github.com/ediomoeffiong?tab=repositories&amp;sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ediomoeffiong?color=FFBF00&amp;style=for-the-badge&amp;labelColor=ff5e00&amp;logo=star" data-canonical-src="https://custom-icon-badges.demolab.com/github/stars/ediomoeffiong?color=FFBF00&amp;style=for-the-badge&amp;labelColor=ff5e00&amp;logo=star"></a>
+  <a href="https://github.com/peaceoloruntoba?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ediomoeffiong?color=236ad3&amp;labelColor=1155ba&amp;style=for-the-badge&amp;logo=person-add&amp;label=Follow&amp;logoColor=white" data-canonical-src="https://custom-icon-badges.demolab.com/github/followers/ediomoeffiong?color=236ad3&amp;labelColor=1155ba&amp;style=for-the-badge&amp;logo=person-add&amp;label=Follow&amp;logoColor=white"></a>
+</p>
+<p align="center" dir="auto"> <a target="_blank" rel="noopener noreferrer nofollow" href="https://komarev.com/ghpvc/?username=ediomoeffiong&amp;style=for-the-badge&amp;color=0a2647"><img src="https://komarev.com/ghpvc/?username=ediomoeffiong&amp;style=for-the-badge&amp;color=0a2647"></a> </p>
+
+
+<!--Socials-->
+## 🌐 Socials
 <div align="center" dir="auto">
   <a href="https://www.linkedin.com/in/ediomo-effiong/" rel="nofollow"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"></a>
   <a href="https://twitter.com/fromdfuture" rel="nofollow"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&amp;logo=twitter&amp;logoColor=white"></a>
@@ -59,6 +74,7 @@ Nothing to see here 😅
 > -->
 
 ## 📊 Github Stats:
+<!--Loading-->
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/PeaceOloruntoba/PeaceOloruntoba/blob/main/assets/light.gif" data-target="animated-image.originalLink"><img src="https://github.com/PeaceOloruntoba/PeaceOloruntoba/raw/main/assets/light.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
 
 <!-- Productivity Stats -->
@@ -111,17 +127,16 @@ Nothing to see here 😅
 </picture>
 </div>
 
-## Trophies
+<!--Loading-->
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/PeaceOloruntoba/PeaceOloruntoba/blob/main/assets/light.gif" data-target="animated-image.originalLink"><img src="https://github.com/PeaceOloruntoba/PeaceOloruntoba/raw/main/assets/light.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+## 🏆 Github Trophies
 <!-- Trophies -->
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=ediomoeffiong&amp;theme=discord&amp;no-frame=false&amp;no-bg=false&amp;margin-w=4" />
 </div>
 
-## Random Dev Quote
+<!--Loading-->
+## ✍️ Random Dev Quote
 <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=radical" />
 </div>
-
----
-
-> Na, I'd Win
