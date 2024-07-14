@@ -52,6 +52,14 @@ Nothing to see here 😅
 
 > Na, I'd Win
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ediomoeffiong)](https://github.com/anuraghazra/github-readme-stats)
-
-<img align="center" src="https://camo.githubusercontent.com/39bb605a11c147fce3aaf218c87c4bab662f5b1c4e82cdc0ddcad0afe9685498/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d50656163654f6c6f72756e746f6261267468656d653d6d6f6e6f6b616926686964655f626f726465723d66616c736526696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d74727565" data-canonical-src="https://github-readme-stats.vercel.app/api?username=ediomoeffiong&amp;theme=monokai&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;">
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=ediomoeffiong&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=ediomoeffiong&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ediomoeffiong&show_icons=true" />
+</picture>
