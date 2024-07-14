@@ -52,7 +52,11 @@ Nothing to see here 😅
 
 > Na, I'd Win
 
-<!--Github Stats-->
+## GITHUB STATS:
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/PeaceOloruntoba/PeaceOloruntoba/blob/main/assets/light.gif" data-target="animated-image.originalLink"><img src="https://github.com/PeaceOloruntoba/PeaceOloruntoba/raw/main/assets/light.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+
+<!--            Github Stats               -->
+<div align="center">
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=ediomoeffiong&show_icons=true&theme=dark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"
@@ -64,18 +68,22 @@ Nothing to see here 😅
   />
   <img src="https://github-readme-stats.vercel.app/api?username=ediomoeffiong&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
 </picture>
+</div>
 
 
 </br>
 </br>
 
 <!--Most used languages-->
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ediomoeffiong&amp;theme=monokai&amp;hide_border=false" style="max-width: 100%;">
+<div align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ediomoeffiong&amp;theme=monokai&amp;hide_border=false">
+</div>
 
 </br>
 </br>
 
 <!--Top Language Stats-->
+<div align="center">
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ediomoeffiong&layout=donut&langs_count=5&show_icons=true&theme=dark"
@@ -87,4 +95,5 @@ Nothing to see here 😅
   />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ediomoeffiong&layout=donut&langs_count=5&show_icons=true"/>
 </picture>
+</div>
 
