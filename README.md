@@ -104,10 +104,10 @@ Nothing to see here 😅
 </br>
 </br>
 
-<!--Most used languages
+<!--Most used languages-->
 <div align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ediomoeffiong&amp;theme=monokai&amp;hide_border=false">
-</div>-->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ediomoeffiong&amp;theme=monokai&amp;hide_border=false">
+</div>
 
 </br>
 </br>
@@ -129,6 +129,7 @@ Nothing to see here 😅
 
 <!--Loading-->
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/PeaceOloruntoba/PeaceOloruntoba/blob/main/assets/light.gif" data-target="animated-image.originalLink"><img src="https://github.com/PeaceOloruntoba/PeaceOloruntoba/raw/main/assets/light.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+
 ## 🏆 Github Trophies
 <!-- Trophies -->
 <div align="center">
