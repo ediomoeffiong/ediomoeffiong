@@ -16,7 +16,7 @@ I'm currently learning Java and Spring Boot Framework.
 
 📫 How to reach me: ediomoemmaeffiong@gmail.com
 
-😄 Fun fact: I love chess.
+😄 Fun fact: I love chess 🫠
 
 <details>
 <summary>Secrets: </summary>
