@@ -85,7 +85,7 @@ Nothing to see here 😅
 </br>
 </br>
 
-<!--            Github Stats               -->
+<!--Github Stats-->
 <div align="center">
 <picture>
   <source
@@ -104,7 +104,7 @@ Nothing to see here 😅
 </br>
 </br>
 
-<!--Most used languages-->
+<!--Streak-->
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ediomoeffiong&amp;theme=monokai&amp;hide_border=false">
 </div>
