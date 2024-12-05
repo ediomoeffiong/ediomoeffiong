@@ -106,7 +106,7 @@ Nothing to see here 😅
 
 <!--Streak-->
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ediomoeffiong&amp;theme=monokai&amp;hide_border=false">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ediomoeffiong&amp;theme=monokai&amp">
 </div>
 
 </br>
