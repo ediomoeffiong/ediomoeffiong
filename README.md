@@ -105,8 +105,7 @@ Nothing to see here 😅
 </br>
 
 <!--Streak-->
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ediomoeffiong&theme=transparent" alt="GitHub Streak" align="center"/></a>
-
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ediomoeffiong&theme=transparent" alt="GitHub Streak" style="align-center"/></a>
 
 
 </br>
