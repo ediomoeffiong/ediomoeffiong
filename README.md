@@ -105,6 +105,7 @@ Nothing to see here 😅
 </br>
 
 <!--Streak-->
+<div align="center">
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ediomoeffiong&theme=transparent)](https://git.io/streak-stats)
 </div>
 
